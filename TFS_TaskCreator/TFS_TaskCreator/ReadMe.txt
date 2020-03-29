@@ -7,4 +7,4 @@
 }
 
 ### Format For CreateString
-Title|Mini-Disc(Acceptrance Criteria)|Story Points|Hours|Descriptions
+Title|Mini-Disc(Acceptance Criteria)|Story Points|Hours|Descriptions
