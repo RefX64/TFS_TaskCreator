@@ -1,0 +1,19 @@
+{
+  "PersonalAccessToken": "xxx",
+  "URI": "https://xxx.visualstudio.com",
+  "ProjectName": "xxx",
+  "CustomDepartment": "xxx",
+  "TFSDefaults": {
+    "AcceptanceCriteria": "Development completed, Testing completed locally, and checked in to TFS.",
+    "AreaPath": "xxx",
+    "AssignedTo": "Chowdhury, Ref",
+    "CurrentSprintExpectation": "Development completed, Testing completed locally, and checked in to TFS.",
+    "IterationPath": "S57 Apr 10 - Apr 23",
+    "Milestone": "No",
+    "ParentID": "xxx",
+    "Priority": "2",
+    "StoryType": "Development",
+    "ValueArea": "Business",
+    "Activity": "Development"
+  }
+}
